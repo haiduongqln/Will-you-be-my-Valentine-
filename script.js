@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
+    "Mắc j",
+    "Hứ",
+    "Bùnnn",
+    "Hứ e đi với thg khác hỏo",
+    "Chơi đã xong bỏ hảa",
+    "A có bầu r đó",
+    "Hong đi thiệt hả",
+    "Fuck u",
+   
     "Just kidding, say yes please! ❤️"
 ];
 
